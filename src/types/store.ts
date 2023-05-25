@@ -1,0 +1,1 @@
+export type observer = ({render: () => void} & HTMLElement);
